@@ -20,7 +20,7 @@ permalink: /aboutUs/dampTeam.html
 <div class="grid">
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card" style="border: 5px solid #ff7b50">
-      <a href="dampTeam.html">
+      <a href="#">
         <div class="card__image card--clickable">
           <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Vishnu.jpg" />
           <div class="overlay overlay--bottom">
@@ -38,7 +38,7 @@ permalink: /aboutUs/dampTeam.html
   </div>
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card">
-      <a href="aboutCouncil.html">
+      <a href="aeroCouncil.html">
         <div class="card__image card--clickable">
           <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
           <div class="overlay overlay--bottom">
