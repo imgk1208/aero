@@ -201,6 +201,9 @@ exclude:
   - /test
   - /vendor
 
+include:
+  - Image
+
 defaults:
   - scope:
       path: ""
