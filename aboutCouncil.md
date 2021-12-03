@@ -27,9 +27,9 @@ permalink: /aboutUs/aeroCouncil.html
 <div class="grid">
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card">
-      <a href="https://github.com/imgk1208/aero/blob/master/aboutDAMP.md">
+      <a href="dampTeam.html">
         <div class="card__image card--clickable">
-          <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Vishnu.jpg" />
+          <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Vishnu.jpg" />
           <div class="overlay overlay--bottom">
             <p>vishnu67sankar@gmail.com</p>
           </div>
@@ -45,9 +45,9 @@ permalink: /aboutUs/aeroCouncil.html
   </div>
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card card-emphasize">
-      <a href="/">
+      <a href="#">
         <div class="card__image card--clickable">
-          <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+          <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
           <div class="overlay overlay--bottom">
             <p>imgk1208@gmail.com</p>
           </div>
@@ -69,7 +69,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -86,7 +86,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -103,7 +103,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -120,7 +120,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -137,7 +137,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -154,7 +154,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -171,7 +171,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -188,7 +188,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -205,7 +205,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -222,7 +222,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -239,7 +239,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
@@ -256,7 +256,7 @@ permalink: /aboutUs/aeroCouncil.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/Council/Gourav.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
         <div class="overlay overlay--bottom">
           <p>imgk1208@gmail.com</p>
         </div>
