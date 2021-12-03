@@ -138,16 +138,16 @@ placement-en:
   - title:      Finance
     children:
       - title:  ICICI
-        url:        /placement_reviews/Finance/icici.html
+        url:        /placement_reviews/finance/icici.html
       - title:  ICICI
-        url:        /placement_reviews/Finance/icici.html
+        url:        /placement_reviews/finance/icici.html
 
   - title:      Research and Development
     children:
       - title:  HiLabs Inc.
-        url:        /placement_reviews/rnd/Hilabsinc.html
+        url:        /placement_reviews/rnd/hilabsinc.html
       - title:  HiLabs Inc.
-        url:        /placement_reviews/rnd/HiLabsInc.html
+        url:        /placement_reviews/rnd/hiLabsInc.html
 
   - title:      Engineering And Technology
     children:
