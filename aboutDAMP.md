@@ -40,7 +40,7 @@ permalink: /aboutUs/dampTeam.html
     <div class="card">
       <a href="https://github.com/imgk1208/aero/blob/master/aboutCouncil.md">
         <div class="card__image card--clickable">
-          <img class="image" src="https://static.india.com/wp-content/uploads/2020/03/kiara-advani-topless-picture-main.jpg" />
+          <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/Council/Gourav.jpg" />
           <div class="overlay overlay--bottom">
             <p>imgk1208@gmail.com</p>
           </div>
