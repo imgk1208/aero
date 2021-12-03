@@ -38,7 +38,7 @@ permalink: /aboutUs/dampTeam.html
   </div>
   <div class="cell cell--12 cell--md-6 cell--lg-6 content p-2">
     <div class="card">
-      <a href="/aboutUs/aeroCouncil.html">
+      <a href="https://github.com/imgk1208/aero/blob/master/aboutCouncil.md">
         <div class="card__image card--clickable">
           <img class="image" src="https://static.india.com/wp-content/uploads/2020/03/kiara-advani-topless-picture-main.jpg" />
           <div class="overlay overlay--bottom">
