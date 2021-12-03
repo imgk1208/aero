@@ -22,7 +22,7 @@ permalink: /aboutUs/dampTeam.html
     <div class="card" style="border: 5px solid #ff7b50">
       <a href="/">
         <div class="card__image card--clickable">
-          <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Vishnu.jpg" />
+          <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Vishnu.jpg" />
           <div class="overlay overlay--bottom">
             <p>vishnu67sankar@gmail.com</p>
           </div>
@@ -62,7 +62,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Navjit.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Navjit.jpg" />
         <div class="overlay overlay--bottom">
           <p>navjitdebnath5@gmail.com</p>
         </div>
@@ -78,7 +78,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Anjali.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Anjali.jpg" />
         <div class="overlay overlay--bottom">
           <p>anjali6rwt@gmail.com</p>
         </div>
@@ -94,7 +94,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Aaryan.jpeg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Aaryan.jpeg" />
         <div class="overlay overlay--bottom">
           <p>aaryan.ayush2000@gmail.com</p>
         </div>
@@ -110,7 +110,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Amrutha.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Amrutha.jpg" />
         <div class="overlay overlay--bottom">
           <p>180010058@iitb.ac.in</p>
         </div>
@@ -127,7 +127,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Atharva.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Atharva.jpg" />
         <div class="overlay overlay--bottom">
           <p>atharvamete12@gmail.com</p>
         </div>
@@ -143,7 +143,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Avinas.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Avinas.jpg" />
         <div class="overlay overlay--bottom">
           <p>avinash.arun10@gmail.com</p>
         </div>
@@ -159,7 +159,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Faisal.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Faisal.jpg" />
         <div class="overlay overlay--bottom">
           <p>aziz.faisal247@gmail.com</p>
         </div>
@@ -175,7 +175,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Harshil.jpeg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Harshil.jpeg" />
         <div class="overlay overlay--bottom">
           <p>190010030@iitb.ac.in</p>
         </div>
@@ -191,7 +191,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Khushi.jpeg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Khushi.jpeg" />
         <div class="overlay overlay--bottom">
           <p>gosalia.khushi@gmail.com</p>
         </div>
@@ -207,7 +207,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Milind.JPG" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Milind.JPG" />
         <div class="overlay overlay--bottom">
           <p>180010031@iitb.ac.in</p>
         </div>
@@ -223,7 +223,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Mukesh.png" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Mukesh.png" />
         <div class="overlay overlay--bottom">
           <p>mukeshgollen10@gmail.com</p>
         </div>
@@ -241,7 +241,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Porwal.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Porwal.jpg" />
         <div class="overlay overlay--bottom">
           <p>pp14ush@gmail.com</p>
         </div>
@@ -257,7 +257,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Ronit.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Ronit.jpg" />
         <div class="overlay overlay--bottom">
           <p>ronitrshukla37@gmail.com</p>
         </div>
@@ -273,7 +273,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Sargun.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Sargun.jpg" />
         <div class="overlay overlay--bottom">
           <p>sargunsohal9@gmail.com</p>
         </div>
@@ -289,7 +289,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/sarraf.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/sarraf.jpg" />
         <div class="overlay overlay--bottom">
           <p>ayushsarraf8@gmail.com</p>
         </div>
@@ -305,7 +305,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Shubham.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Shubham.jpg" />
         <div class="overlay overlay--bottom">
           <p>shubh.am.sharma11kt@gmail.com</p>
         </div>
@@ -321,7 +321,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Vignesh.jpeg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Vignesh.jpeg" />
         <div class="overlay overlay--bottom">
           <p>vignesh.anand.1503@gmail.com</p>
         </div>
@@ -337,7 +337,7 @@ permalink: /aboutUs/dampTeam.html
   <div class="cell cell--12 cell--md-6 cell--lg-4 content p-2">
     <div class="card">
       <div class="card__image">
-        <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Yashika.jpg" />
+        <img class="image" src="https://raw.githubusercontent.com/imgk1208/aero/master/Image/DAMP/Yashika.jpg" />
         <div class="overlay overlay--bottom">
           <p>yashikasinghal13@gmail.com</p>
         </div>
