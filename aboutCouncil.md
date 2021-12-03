@@ -29,7 +29,7 @@ permalink: /aboutUs/aeroCouncil.html
     <div class="card">
       <a href="/aboutUs/dampTeam.html">
         <div class="card__image card--clickable">
-          <img class="image" src="https://drive.google.com/file/d/17kAGzg2KqnC5dDVrJSqXKGKVx6BUjRi0/view?usp=sharing" />
+          <img class="image" src="https://github.com/imgk1208/aero/blob/master/Image/DAMP/Vishnu.jpg" />
           <div class="overlay overlay--bottom">
             <p>vishnu67sankar@gmail.com</p>
           </div>
